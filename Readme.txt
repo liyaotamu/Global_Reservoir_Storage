@@ -1,0 +1,2 @@
+The code for trend analysis based on MK is included in the file "Statistics". The codes can be run in all versions of Matlab. The input data is "GRS_1999-2018_v1.2_NS.xlsx".
+The code for calculating the storage values using simulated method is included in "Global_reservoir_storage.ipynb", which can be run via Jupyter Notebook. 
